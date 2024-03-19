@@ -133,7 +133,7 @@ class Menu extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          "Kentang Goreng",
+                          "Nasi Goreng",
                           style: TextStyle(
                               fontFamily: 'Poppins',
                               fontSize: 16.0,
